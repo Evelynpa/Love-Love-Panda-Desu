@@ -1,0 +1,173 @@
+/* @media (min-width:1200px){
+
+} */
+@media (min-width:768px) and (max-width:1199px){
+      .miniUno{
+        width: 50%;
+      }
+      .miniDos{
+         width: 50%;
+      }
+      .minitres{
+        width: 50%;
+        text-align: right;
+      }
+      .minitres img{
+       margin-right: 0;
+        
+     }
+      .minicuatro{
+         width: 50%;
+      }
+      .textCenter{
+          width: 70%;
+      }
+     
+}
+@media (min-width:445px) and (max-width:767px){
+  .miniUno{
+    width: 50%;
+  }
+  .miniDos{
+     width: 50%;
+  }
+  .minitres{
+    width: 50%;
+    text-align: right;
+  }
+  .minitres img{
+   margin-right: 0;
+    
+ }
+  .minicuatro{
+     width: 50%;
+  }
+  .textCenter{
+      width: 70%;
+  }
+  button{
+     display: inline-block;
+  }
+  .divButton{
+    text-align: right
+  }
+  button{
+    background-color: #F78E69;
+    border: 1px solid #ABE188;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #f56e3d;
+}
+.fa-bars{
+   font-size: 2em;
+   padding: 8px 15px 8px 15px;
+   color:  #ABE188;
+   font-weight: 300
+}
+  .cabezera{
+    text-align: center
+  }
+}
+@media (min-width:560px) and (max-width:767px){
+  .miniUno{
+    width: 50%;
+  }
+  .miniDos{
+     width: 50%;
+  }
+  .minitres{
+    width: 50%;
+    text-align: right;
+  }
+  .minitres img{
+   margin-right: 0;
+    
+ }
+  .minicuatro{
+     width: 50%;
+  }
+  .textCenter{
+      width: 70%;
+  }
+  button{
+     display: inline-block;
+  }
+  .divButton{
+    text-align: center
+  }
+  button{
+    background-color: #F78E69;
+    border: 1px solid #ABE188;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #f56e3d;
+}
+.fa-bars{
+   font-size: 2em;
+   padding: 8px 15px 8px 15px;
+   color:  #ABE188;
+   font-weight: 300
+}
+  .cabezera{
+    text-align: center
+  }
+  h4{
+    display: none
+  }
+}
+@media (min-width:100px) and (max-width:559px){
+      .miniUno{
+        width: 100%;
+        text-align: center;
+      }
+      .miniDos{
+         width: 100%;
+         text-align: center;
+      }
+      .minitres{
+        width: 100%;
+        text-align: center;
+      }
+      .minicuatro{
+         width: 100%;
+         text-align: center;
+      }
+      .textCenter{
+          width: 90%;
+      }
+      button{
+         display: inline-block;
+      }
+      .divButton{
+        text-align: center
+      }
+      button{
+        background-color: #F78E69;
+        border: 1px solid #ABE188;
+        border-radius: 5px;
+    }
+    button:hover{
+        background-color: #f56e3d;
+    }
+    .fa-bars{
+       font-size: 2em;
+       padding: 8px 15px 8px 15px;
+       color:  #ABE188;
+       font-weight: 300
+    }
+      .cabezera{
+        text-align: center
+      }
+      h4{
+        display: none
+      }
+     
+}
+/* @media (min-width:576px) and (max-width:767px){
+    
+}
+@media (min-width:575px){
+    
+} */

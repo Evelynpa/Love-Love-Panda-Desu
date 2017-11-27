@@ -1,0 +1,89 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+div{
+    margin: 0;
+    padding: 0;
+}
+/* <!-- CABEZERA --> */
+.cabezera{
+    background-color: #F78E69;
+    text-align: right;
+    padding: 30px;
+}
+button{
+    display: none
+}
+/* <!-- PANDA FOTO UNO --> */
+.imgPandaUno{
+    padding: 0;
+    margin: 0;
+}
+.img{
+    width: 100%;
+}
+#uno{
+    padding: 0;
+}
+#dos{
+    padding: 0;
+}
+#tres{
+    padding: 0;
+}
+.containerCentrado{
+    background-color: #ABE188;
+    border-top: 20px solid #F78E69;
+    border-bottom: 20px solid #F78E69;
+    padding: 30px 0 30px 0;
+    margin: 0 auto;
+    margin-top: -10px;
+    text-align: center
+}
+.textCenter{
+    width: 35%;
+    background-color: #F78E69;
+}
+.textCenter{
+   display: inline-block
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+}
+p{
+    margin: 5px;
+}
+.miniImg{
+    background-color:  #ABE188;
+    margin-top: -10px;
+    padding: 30px;
+    border-top: 20px solid #F78E69;
+    border-bottom: 20px solid #F78E69;
+}
+.minImg{
+    border: 10px solid #fff;
+    margin: 20px;
+
+}
+.miniUno{
+    text-align: right;
+}
+.miniUno img{
+    margin-right: 0px;
+    
+}
+.titlePicture{
+    font-size: 2.5em;
+}
+footer{
+    background-color: #F78E69;
+    margin-top: -10px;
+    text-align: right;
+    padding: 10px;
+}
